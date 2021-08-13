@@ -1,0 +1,15 @@
+{
+  "name": "testprepapi",
+  "version": "1.0.0",
+  "description": "A REST API FOR TEST QUIZ PREPARATIONS E.G SAT TOEFL IELTS WAEC ETC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "David Okoroafor",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
